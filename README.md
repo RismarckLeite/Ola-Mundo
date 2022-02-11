@@ -3,4 +3,4 @@
 
  Repositório criado durante uma aula ao vivo!
 
-Adicionei  uma nova linha! Que legal.
+Adicionei uma nova linha! Que legal.
